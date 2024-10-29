@@ -1,3 +1,6 @@
+# todo-frontend
+A simple to-do application to add and maintain reminders, frontend, built using React and AntD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
